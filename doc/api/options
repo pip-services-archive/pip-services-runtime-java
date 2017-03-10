@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/seroukhov/.m2/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.jar;C:/Users/seroukhov/.m2/repository/javax/xml/bind/jaxb-api/2.2.2/jaxb-api-2.2.2.jar;C:/Users/seroukhov/.m2/repository/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.7.2/jackson-dataformat-yaml-2.7.2.jar;C:/Users/seroukhov/.m2/repository/org/codehaus/jettison/jettison/1.1/jettison-1.1.jar;C:/Users/seroukhov/.m2/repository/org/codehaus/jackson/jackson-mapper-asl/1.8.3/jackson-mapper-asl-1.8.3.jar;C:/Users/seroukhov/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar;C:/Users/seroukhov/.m2/repository/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar;C:/Users/seroukhov/.m2/repository/org/yaml/snakeyaml/1.15/snakeyaml-1.15.jar;C:/Users/seroukhov/.m2/repository/com/sun/jersey/jersey-client/1.9/jersey-client-1.9.jar;C:/Users/seroukhov/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.7.2/jackson-databind-2.7.2.jar;C:/Users/seroukhov/.m2/repository/com/sun/jersey/jersey-server/1.9/jersey-server-1.9.jar;C:/Users/seroukhov/.m2/repository/org/codehaus/jackson/jackson-jaxrs/1.8.3/jackson-jaxrs-1.8.3.jar;C:/Users/seroukhov/.m2/repository/com/sun/jersey/jersey-core/1.9/jersey-core-1.9.jar;C:/Users/seroukhov/.m2/repository/stax/stax-api/1.0.1/stax-api-1.0.1.jar;C:/Users/seroukhov/.m2/repository/org/codehaus/jackson/jackson-core-asl/1.8.3/jackson-core-asl-1.8.3.jar;C:/Users/seroukhov/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.7.0/jackson-annotations-2.7.0.jar;C:/Users/seroukhov/.m2/repository/com/sun/jersey/jersey-json/1.9/jersey-json-1.9.jar;C:/Users/seroukhov/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar;C:/Users/seroukhov/.m2/repository/org/codehaus/jackson/jackson-xc/1.8.3/jackson-xc-1.8.3.jar;C:/Users/seroukhov/.m2/repository/asm/asm/3.1/asm-3.1.jar;C:/Users/seroukhov/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.7.2/jackson-core-2.7.2.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Projects/pip-services-org/pip-services-runtime-java/src'
+-author
+-bottom
+'Copyright &#169; 2016. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Projects/pip-services-org/pip-services-runtime-java/doc/api'
+-docencoding
+'UTF-8'
+-doctitle
+'Pip.Services Java Runtime 1.0.0-SNAPSHOT API'
+-linkoffline
+'http://docs.oracle.com/javase/8/docs/api' 'C:/Projects/pip-services-org/pip-services-runtime-java/lib/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Pip.Services Java Runtime 1.0.0-SNAPSHOT API'

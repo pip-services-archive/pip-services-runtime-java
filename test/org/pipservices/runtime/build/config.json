@@ -1,0 +1,50 @@
+{
+  "logs": {
+  	"descriptor": {
+    	"type": "console"
+	}
+  },
+
+  "counters": {
+  	"descriptor": {
+    	"type": "log"
+	}
+  },
+
+  "cache": {
+  	"descriptor": {
+    	"type": "memory"
+    }
+  },	
+
+  "persistence": {
+  	"descriptor": {
+    	"type": "file"
+	},
+	"options": {
+    	"path": "dummies.json",
+    	"data": [ ]
+	}
+  },
+
+  "controllers": {
+  	"descriptor": {
+  	  "type": "*"
+  	}
+  },
+
+  "clients": {
+    "descriptor": {
+    	"group": "pip-services-dummies",
+    	"type": "rest"
+	}
+  },
+
+  "services": [
+    {
+    	"descriptor": {
+      		"type": "rest"
+  		}
+    }
+  ]
+}
